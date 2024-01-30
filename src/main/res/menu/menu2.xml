@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/año"
+            android:icon="@drawable/ic_ao"
+            android:title="año" />
+        <item
+            android:id="@+id/Mes"
+            android:icon="@drawable/ic_mes"
+            android:title="Mes" />
+        <item
+            android:id="@+id/Semana"
+            android:icon="@drawable/ic_semana"
+            android:title="semana" />
+        <item
+            android:id="@+id/Dia"
+            android:icon="@drawable/ic_day"
+            android:title="Dia" />
+        <item
+            android:id="@+id/Reminder"
+            android:icon="@drawable/ic_rem"
+            android:title="Reminder" />
+    </group>
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="..........">
+        <menu>
+            <item
+                android:id="@+id/MiTelefono"
+                android:icon="@drawable/ic_telefono"
+                android:title="Mi telefono"/>
+            <item
+                android:id="@+id/Sa1"
+                android:icon="@drawable/ic_sanmsumg"
+                android:title="Sansumg account"/>
+            <item
+                android:id="@+id/googlle"
+                android:icon="@drawable/ic_google"
+                android:title="Google"/>
+
+        </menu>
+    </item>
+
+
+
+    <item
+        android:id="@+id/navigation_subheader1"
+        android:title="Eventos de aplicaciones">
+        <menu>
+            <item
+                android:id="@+id/Papelera"
+                android:icon="@drawable/ic_papelera"
+                android:title="Papelera"/>
+            <item
+                android:id="@+id/Sicronizar"
+                android:icon="@drawable/ic_sicronizar"
+                android:title="Sicronizar Ahora"/>
+
+
+        </menu>
+    </item>
+</menu>
+
