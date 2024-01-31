@@ -5,7 +5,7 @@
 
 Ingeniero, en mi trabajo lo descargue el codigo que usted proporciono en su repositorio porque mi codigo que estaba transcribiendo me salia unos errores no logre corregir.  
 
-Modifique el codigo pero a la hora de subir a mi repositorio no me sube completo el codigo, adjunte la captura del proyecto de mi Android Studio de evidencia que si trabaje.
+Modifique el codigo pero a la hora de subir a mi repositorio me sube de una manera diferente todo las carpetas estan dentro de la carpeta src
 
 ![Captura de pantalla 2024-01-29 235130](https://github.com/OlgerCaiza/T3Calendario/assets/151785332/aa1b04e9-48b6-49ba-a0d9-e231b2b3314a)
 
